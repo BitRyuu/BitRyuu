@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/bitryuu.gif"/>
+  <img src="assets/BitRyuu.gif"/>
 </p>
